@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Grants, Awards & Honours
+title: Awards & Honours
 permalink: /awards/
 ---
 
