@@ -9,7 +9,7 @@ nav-order: 2
 [![James O'Sullivan on CORA](/images/cora.png)](https://cora.ucc.ie/browse?value=O%27Sullivan%2C+James&type=author)&nbsp;&nbsp;&nbsp;
 [![James O'Sullivan on Zotero](/images/zotero.png)](https://www.zotero.org/josullivan)&nbsp;&nbsp;&nbsp;
 [![James O'Sullivan on Humanities Commons](/images/humcommons.jpg)](https://hcommons.org/members/jamesosullivan/deposits/)&nbsp;&nbsp;&nbsp;
-[![James O'Sullivan on ORCID](/images/orcid.jpg)](http://orcid.org/0000-0002-4214-9933)&nbsp;&nbsp;&nbsp;
+[![James O'Sullivan on ORCID](/images/orcid.png)](http://orcid.org/0000-0002-4214-9933)&nbsp;&nbsp;&nbsp;
 [![James O'Sullivan on Amazon](/images/amazon.png)](https://www.amazon.co.uk/James-OSullivan/e/B00K1IPZYM)
 
 ## Scholarly Publications
