@@ -84,7 +84,7 @@ O’Sullivan, James. *Scholarly Equivalents of the Monograph? An Examination of 
 
 ## Selected Essays, Features & Reviews
 
-O'Sullvan, James. "Literary Cork." *Stranger's Guide*, Ireland, Issue 4, 2019. [[Print](https://ezsubscription.com/stg/store/prdetail?pr=STGISS19-03)]
+O'Sullvan, James. "Literary Cork." *Stranger's Guide*, Ireland, Issue 4, 2019. pp. 47-51. [[Print](https://ezsubscription.com/stg/store/prdetail?pr=STGISS19-03)]
 
 O’Sullivan, James. “The humanities have a reproducibility problem.” *Talking Humanities*, July 2019. [[Web](https://talkinghumanities.blogs.sas.ac.uk/2019/07/09/the-humanities-have-a-reproducibility-problem/)][[CORA](http://hdl.handle.net/10468/8208)]
 
