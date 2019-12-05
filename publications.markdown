@@ -84,6 +84,8 @@ O’Sullivan, James. *Scholarly Equivalents of the Monograph? An Examination of 
 
 ## Selected Essays, Features & Reviews
 
+O'Sullivan, James. "Good literature can come in digital forms: just look to the world of video games." *The Conversation*, December 2019. [[Web](https://theconversation.com/good-literature-can-come-in-digital-forms-just-look-to-the-world-of-video-games-127971)]
+
 O'Sullvan, James. "Literary Cork." *Stranger's Guide*, Ireland, Issue 4, 2019. pp. 47-51. [[Print](https://ezsubscription.com/stg/store/prdetail?pr=STGISS19-03)]
 
 O’Sullivan, James. “The humanities have a reproducibility problem.” *Talking Humanities*, July 2019. [[Web](https://talkinghumanities.blogs.sas.ac.uk/2019/07/09/the-humanities-have-a-reproducibility-problem/)][[CORA](http://hdl.handle.net/10468/8208)]
