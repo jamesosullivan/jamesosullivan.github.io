@@ -1,85 +1,47 @@
 ---
 layout: page
-title: Teaching & Experience
+title: Appointments & Experience
 permalink: /experience/
 ---
 
-## Teaching Contributions
+# Faculty Appointments & Professional Service
 
-### University College Cork
-
-#### Current
-
-Digital Humanities: Theories, Concepts, & Practices (DH2001)  
-Electronic Literature / Literary Games (DH2008)  
-Curation and Dissemination in the Digital Age (DH2006)  
-Computer-assisted Text Analysis for the Arts & Humanities (DH2007)  
-Research Methods (DH4002)  
-
-#### Previous
-
-Contemporary Practices in Publishing and Editing (DH6012/PG6010)  
-Digital Skills for Research Postgraduates (DH6014/PG6011)  
-Concepts and Collaboration in Digital Humanities (DH1001)  
-Contemporary Literary Research: Skills, Methods and Strategies (EN6015)  
-Introduction to Quantitative Methods for Digital Humanities (DH6009)  
-Textualities: Text, Technology & Digital Cultures (EN3006, MOD 3.17)  
-Forms and Themes in Contemporary Literary and Cultural Practice (EN2103)  
-
-### Previous Appointments
-
-#### University of Sheffield
-
-Introduction to Digital Humanities (IPA610)  
-Advanced Digital Humanities (IPA615)  
-Digital Humanities: Textual Analysis (IPA617)  
-
-#### Washington State University, Vancouver
-
-Digital Humanities: Critical Trends & Practices (DTC 338.02)
-
-#### Pennsylvania State University
-
-Video Game Studies (CMLIT 496B)
-
-## Faculty Appointments & Professional Service
-
-### Faculty Appointments
-
-#### Full-Time
+## Faculty Appointments
 
 Lecturer in Digital Arts & Humanities (2016-present)
-School of English, University College Cork
+School of English & Digital Humanities, University College Cork
 
 Digital Humanities Research Associate (2016-2017)
 Humanities Research Institute, University of Sheffield
 
 Digital Humanities Research Designer (2014-2016)
-Pennsylvania State University
+College of the Liberal Arts, Pennsylvania State University
 
-#### Part-Time
+### Part-Time
 
 Adjunct Lecturer (2011-2017)
-School of Science & Informatics
-Cork Institute of Technology
+School of Science & Informatics, Cork Institute of Technology
 
 Adjunct Professor (2015-2016)
-Creative Media & Digital Culture
-Washington State University, Vancouver
+Creative Media & Digital Culture, Washington State University, Vancouver
 
-### Professional Service & Administrative Responsibilities
+## Professional Service & Administrative Responsibilities
 
-#### Current
+### Current
 
 Director, DHSI Atlantic (2019-)
 
 Member of the Research and Innovation Committee for the College of Arts, Celtic Studies & Social Sciences, University College Cork (2018-)
 
-Coordinator of the Digital Arts & Humanities Research Colloquium, University College Cork (2017-)
+### Previous
 
-Member of the *DH2020* Program Committee (2019-)
+Acting Head, Department of Digital Humanities, January - June 2020
 
-#### Previous
+Member of the *Digital Humanities* Program Committee (2020)
+
+Coordinator of the Digital Arts & Humanities Research Colloquium, University College Cork (2017-2020)
+
+Chair, Electronic Literature Organization Conference & Media Arts Festival, July 2019
 
 Associate Director of the Digital Humanities Summer Institute, University of Victoria, British Columbia (2013-2018)
 
