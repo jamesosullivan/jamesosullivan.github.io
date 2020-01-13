@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Appointments & Experience
+title: Experience
 permalink: /experience/
 ---
 
