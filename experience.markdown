@@ -4,9 +4,9 @@ title: Appointments & Experience
 permalink: /experience/
 ---
 
-# Faculty Appointments & Professional Service
+## Faculty Appointments & Professional Service
 
-## Faculty Appointments
+### Faculty Appointments
 
 Lecturer in Digital Arts & Humanities (2016-present)
 School of English & Digital Humanities, University College Cork
@@ -17,7 +17,7 @@ Humanities Research Institute, University of Sheffield
 Digital Humanities Research Designer (2014-2016)
 College of the Liberal Arts, Pennsylvania State University
 
-### Part-Time
+#### Part-Time
 
 Adjunct Lecturer (2011-2017)
 School of Science & Informatics, Cork Institute of Technology
@@ -25,15 +25,15 @@ School of Science & Informatics, Cork Institute of Technology
 Adjunct Professor (2015-2016)
 Creative Media & Digital Culture, Washington State University, Vancouver
 
-## Professional Service & Administrative Responsibilities
+### Professional Service & Administrative Responsibilities
 
-### Current
+#### Current
 
 Director, DHSI Atlantic (2019-)
 
 Member of the Research and Innovation Committee for the College of Arts, Celtic Studies & Social Sciences, University College Cork (2018-)
 
-### Previous
+#### Previous
 
 Acting Head, Department of Digital Humanities, January - June 2020
 
