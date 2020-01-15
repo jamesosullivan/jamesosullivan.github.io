@@ -35,10 +35,13 @@ plugins:
   - jekyll-feed
 
 # Order of pages in order as they should show up
-#header_pages:
+header_pages:
   - index.markdown
   - publications.markdown
   - experience.markdown
+  - education.markdown
+  - awards.markdown
+  - media.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
