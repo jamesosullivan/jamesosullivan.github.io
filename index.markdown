@@ -4,7 +4,7 @@
 
 layout: page
 title: Welcome
-nav_order: 1
+order: 1
 ---
 
 <img style="float: left; padding-right: 20px" src="/images/james-o-sullivan.jpg">

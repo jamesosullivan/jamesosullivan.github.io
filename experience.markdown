@@ -31,11 +31,11 @@ Creative Media & Digital Culture, Washington State University, Vancouver
 
 Director, DHSI Atlantic (2019-)
 
+Acting Head, Department of Digital Humanities, January - July 2020
+
 Member of the Research and Innovation Committee for the College of Arts, Celtic Studies & Social Sciences, University College Cork (2018-)
 
 #### Previous
-
-Acting Head, Department of Digital Humanities, January - June 2020
 
 Member of the *Digital Humanities* Program Committee (2020)
 
