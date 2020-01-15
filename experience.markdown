@@ -8,6 +8,9 @@ permalink: /experience/
 
 ### Faculty Appointments
 
+#### Full-Time
+
+
 Lecturer in Digital Arts & Humanities (2016-present)  
 School of English & Digital Humanities, University College Cork
 
