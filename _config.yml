@@ -40,8 +40,8 @@ header_pages:
   - publications.markdown
   - experience.markdown
   - awards.markdown
-  - education.markdown
   - media.markdown
+  - education.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
