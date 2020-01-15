@@ -39,8 +39,8 @@ header_pages:
   - index.markdown
   - publications.markdown
   - experience.markdown
-  - education.markdown
   - awards.markdown
+  - education.markdown
   - media.markdown
 
 # Exclude from processing.
