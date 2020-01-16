@@ -9,7 +9,7 @@ order: 1
 
 <img style="float: left; padding-right: 20px" src="/images/james-o-sullivan.jpg">
 
-Hello! I research and teach across various topics in the digital humanities, specifically, digital literary and cultural studies, and computational criticism. I took up a lectureship in the [Department of Digital Humanities](https://www.ucc.ie/en/dah/) at University College Cork in July 2017, having previously held faculty positions at the University of Sheffield and Pennsylvania State University.
+Hello! I research and teach across various topics in the digital humanities and digital culture, specifically, digital literary and cultural studies, and computational criticism. I took up a lectureship in the [Department of Digital Humanities](https://www.ucc.ie/en/dah/) at University College Cork in July 2017, having previously held faculty positions at the University of Sheffield and Pennsylvania State University.
 
 I am the author of [Towards a Digital Poetics](https://www.palgrave.com/gp/book/9783030113094) (Palgrave Macmillan 2019). I have also edited several scholarly collections, such as [Reading Modernism with Machines](https://www.palgrave.com/gp/book/9781137595683) (Palgrave Macmillan 2016). My research has appeared in a number of international peer-reviewed publications, including *Digital Scholarship in the Humanities*, *Digital Humanities Quarterly*, *Digital Studies/Le Champ Numérique*, the *International Journal of Humanities and Arts Computing* and the MLA's evolving anthology, *Literary Studies in a Digital Age*. I have given plenaries and guest lectures at a number of major institutions and gatherings. My research has also drawn some attention from the press, being cited in venues like *The New Yorker*.
 
