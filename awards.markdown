@@ -14,6 +14,8 @@ ADHO Bursary, Digital Humanities, Lausanne, July 2014
 
 ## Selected Awards & Honours
 
+Contributor to *The Bloomsbury Handbook of Electronic Literature* edited by Joseph Tabbi, recipient of the Electronic Literature Organization N. Katherine Hayles Award in 2018 
+
 “Different Kinds of Life” received third-place in the Gregory O’Donoghue International Poetry Prize 2016
 
 “Rust” was shortlisted for the Fish Poetry Prize 2016
