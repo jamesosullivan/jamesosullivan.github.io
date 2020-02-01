@@ -85,6 +85,8 @@ O’Sullivan, James. *Scholarly Equivalents of the Monograph? An Examination of 
 
 ## Selected Essays, Features & Reviews
 
+O'Sullivan, James. "Being Faithless." *HeadStuff*, January 2020. [[Web](https://www.headstuff.org/topical/opinion/2020being-faithless-catholic/)]
+
 O'Sullivan, James. "Good literature can come in digital forms: just look to the world of video games." *The Conversation*, December 2019. [[Web](https://theconversation.com/good-literature-can-come-in-digital-forms-just-look-to-the-world-of-video-games-127971)]
 
 O'Sullvan, James. "Literary Cork." *Stranger's Guide*, Ireland, Issue 4, 2019. pp. 47-51. [[Print](https://ezsubscription.com/stg/store/prdetail?pr=STGISS19-03)]

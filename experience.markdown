@@ -10,8 +10,7 @@ permalink: /experience/
 
 #### Full-Time
 
-
-Lecturer in Digital Arts & Humanities (2016-present)  
+Lecturer in Digital Arts & Humanities (2017-present)  
 School of English & Digital Humanities, University College Cork
 
 Digital Humanities Research Associate (2016-2017)  
