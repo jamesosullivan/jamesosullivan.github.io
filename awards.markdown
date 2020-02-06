@@ -14,7 +14,7 @@ ADHO Bursary, Digital Humanities, Lausanne, July 2014
 
 ## Selected Awards & Honours
 
-Contributor to *The Bloomsbury Handbook of Electronic Literature* edited by Joseph Tabbi, recipient of the Electronic Literature Organization N. Katherine Hayles Award in 2018 
+Contributor to *The Bloomsbury Handbook of Electronic Literature* edited by Joseph Tabbi, recipient of the Electronic Literature Organization N. Katherine Hayles Award in 2018
 
 “Different Kinds of Life” received third-place in the Gregory O’Donoghue International Poetry Prize 2016
 
@@ -38,23 +38,23 @@ Recipient of “Best Innovation in an Emerging Space”, Cork County and City En
 
 ## Plenaries & Guest lectures
 
-“The Challenges of Digital Humanities”
+“The Challenges of Digital Humanities”  
 Open in Practice: Inspirations, Strategies and Methods for Open Research, University of Reading, March 2017
 
-“The Evolution of E-Lit: Quantitative Approaches”
+“The Evolution of E-Lit: Quantitative Approaches”  
 Institute of the Polish Language at the Polish Academy of Sciences, Kraków, December 2016
 
-“Algorithmic Criticism as an approach to Electronic Literature”
+“Algorithmic Criticism as an approach to Electronic Literature”  
 Electronic Literature Lab, Washington State University, Vancouver, January 2016
 
-“Getting Creative with Industry”
+“Getting Creative with Industry”  
 CACSSS Postgraduate Research Conference, University College Cork, December 2015
 
-“Exploring Ireland’s Literary Communities”
+“Exploring Ireland’s Literary Communities”  
 Comparative Literature Luncheon Lecture Series, Pennsylvania State University, November 2014
 
-“Making Technology Work for the Humanities: Why, How, and What”
+“Making Technology Work for the Humanities: Why, How, and What”  
 Liberal Arts Scholarship and Technology Summit, Pennsylvania State University, September 2014
 
-“The Significance of Boring Words: Stylometric Analyses of James Joyce”
+“The Significance of Boring Words: Stylometric Analyses of James Joyce”  
 Queens University Belfast, May 2014
