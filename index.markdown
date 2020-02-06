@@ -13,7 +13,7 @@ Hello! I research and teach across various topics in the digital humanities and 
 
 I am the author of *[Towards a Digital Poetics](https://www.palgrave.com/gp/book/9783030113094)* (Palgrave Macmillan 2019). I have also edited several scholarly collections, such as *[Reading Modernism with Machines](https://www.palgrave.com/gp/book/9781137595683)* (Palgrave Macmillan 2016). My research has appeared in a number of international peer-reviewed publications, including *Digital Scholarship in the Humanities*, *Digital Humanities Quarterly*, *Digital Studies/Le Champ Numérique*, the *International Journal of Humanities and Arts Computing* and the MLA's evolving anthology, *Literary Studies in a Digital Age*. I have given plenaries and guest lectures at a number of major institutions and gatherings. My research has also drawn some attention from the press, being cited in venues like *The New Yorker*.
 
-I have been involved in a variety of digital projects, including the [Joyce Word Dictionary](https://joycewords.com/).
+I have been involved with a variety of digital projects, including the [Joyce Word Dictionary](https://joycewords.com/).
 
 A born-and-raised native of Cork city, I received my Ph.D. from University College Cork. Previous to the completion of my doctorate, I obtained a B.Sc. and M.Sc. (Cork Institute of Technology), a Higher Diploma in Arts in English (U.C.C.), and an M.A. in Modernity, Literature and Culture (University College Dublin).
 
