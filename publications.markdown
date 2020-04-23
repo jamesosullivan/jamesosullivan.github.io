@@ -67,15 +67,21 @@ O’Sullivan, James. “Finn’s Hotel and the Joycean Canon.” *Genetic Joyce 
 
 O’Sullivan, James. “Time and Technology in Orlando.” *ANQ: A Quarterly Journal of Short Articles, Notes and Reviews*, vol. 27, no. 1, 2014, pp. 40–45, doi:10.1080/0895769X.2014.880143. [[Web](http://dx.doi.org/10.1080/0895769X.2014.880143)][[WorldCat](http://www.worldcat.org/oclc/5563643423)][[CORA](https://cora.ucc.ie/handle/10468/5365)][[Zenodo](https://zenodo.org/record/3235621)]
 
-### Edited Journals
+### Reports
+
+O’Sullivan, James. *Scholarly Equivalents of the Monograph? An Examination of Some Digital Edge Cases*. The Academic Book of the Future Project, University College London, 2017. [[CORA](https://cora.ucc.ie/handle/10468/4273)][[Zenodo](http://doi.org/10.5281/zenodo.3235562)]
+
+### Special Issues
 
 O’Sullivan, James. “DHSI Colloquium Special Collection.” *Digital Studies/Le Champ Numérique*, vol. 8, no. 1, 2018, doi:10.16995/dscn.286. [[Web](https://www.digitalstudies.org/collections/special/the-digital-humanities-summer-institute/)]
 
 O’Sullivan, James, Mary Galvin, and Diane Jakacki. “DHSI Colloquium 2014 Special Issue.” *Digital Humanities Quarterly*, vol. 10, no. 1, 2016. [[Web](http://www.digitalhumanities.org/dhq/vol/10/1/index.html)]
 
-### Reports
+### Other
 
-O’Sullivan, James. *Scholarly Equivalents of the Monograph? An Examination of Some Digital Edge Cases*. The Academic Book of the Future Project, University College London, 2017. [[CORA](https://cora.ucc.ie/handle/10468/4273)][[Zenodo](http://doi.org/10.5281/zenodo.3235562)]
+O'Sullivan, James, chair. *Electronic Literature Organization Conference & Media Arts Festival (ELO2019): Programme & Book of Abstracts*. University College Cork, July 2019. [[CORA](https://cora.ucc.ie/handle/10468/8128)]
+
+Clarke, Chris & James O'Sullivan, curators. *Peripheries: ELO2019 Exhibition Programme*. University College Cork, July 2019. [[CORA](https://cora.ucc.ie/handle/10468/8138)]
 
 ## Digital Projects
 
