@@ -73,6 +73,8 @@ O’Sullivan, James. *Scholarly Equivalents of the Monograph? An Examination of 
 
 ### Special Issues
 
+Nilsson-Fernàndez, Pedro and James O’Sullivan. "ELO2019 Gathering (Cork, Ireland)." *Electronic Book Review*, 2020. [[Web](https://electronicbookreview.com/gathering/elo2019-cork-ireland/)]
+
 O’Sullivan, James. “DHSI Colloquium Special Collection.” *Digital Studies/Le Champ Numérique*, vol. 8, no. 1, 2018, doi:10.16995/dscn.286. [[Web](https://www.digitalstudies.org/collections/special/the-digital-humanities-summer-institute/)]
 
 O’Sullivan, James, Mary Galvin, and Diane Jakacki. “DHSI Colloquium 2014 Special Issue.” *Digital Humanities Quarterly*, vol. 10, no. 1, 2016. [[Web](http://www.digitalhumanities.org/dhq/vol/10/1/index.html)]
