@@ -4,7 +4,7 @@ title: Education
 permalink: /education/
 ---
 
-Postgraduate Certificate in Teaching & Learning  
+Postgraduate Certificate in Teaching & Learning in Higher Education  
 University College Cork (2019)  
 Centre for the Integration of Research, Teaching and Learning
 
