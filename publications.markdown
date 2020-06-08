@@ -93,6 +93,8 @@ Clarke, Chris & James O'Sullivan, curators. *Peripheries: ELO2019 Exhibition Pro
 
 ## Selected Essays, Features & Reviews
 
+O'Sullivan, James. "We are failing young people if we can’t teach them common decency." *The Irish Times*, June 2020. [[Web](www.irishtimes.com/1.4271670)]
+
 O'Sullivan, James. "Being Faithless." *HeadStuff*, January 2020. [[Web](https://www.headstuff.org/topical/opinion/2020being-faithless-catholic/)]
 
 O'Sullivan, James. "Good literature can come in digital forms: just look to the world of video games." *The Conversation*, December 2019. [[Web](https://theconversation.com/good-literature-can-come-in-digital-forms-just-look-to-the-world-of-video-games-127971)]
@@ -160,4 +162,4 @@ Extract from “Designing Waste”, *Banshee*, Issue 1, autumn 2015.
 “Remember When”, *The SHOp*, Issue 43, autumn 2013.  
 “While You Were Dancing”, *Bare Hands*, Issue 17, August 2013.  
 “Moll’s Gap”, *Revival Literary Journal*, Issue 26, June 2013.  
-“Shepherd”, *Wordlegs*, November 2011.  
+“Shepherd”, *Wordlegs*, November 2011.
