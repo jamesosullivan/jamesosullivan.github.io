@@ -37,7 +37,7 @@ O’Sullivan, James, Christopher P. Long, and Mark Mattson. “Dissemination as 
 
 ### Selected Journal Articles
 
-O'Sullivan, James. "Who Wrote *Wuthering Heights*?" *Digital Scholarship in the Humanities*, 2020, doi: 10.1093/llc/fqaa031. [[Web](https://doi.org/10.1093/llc/fqaa031)]  
+McCarthy, Rachel, and James O'Sullivan. "Who Wrote *Wuthering Heights*?" *Digital Scholarship in the Humanities*, 2020, doi: 10.1093/llc/fqaa031. [[Web](https://doi.org/10.1093/llc/fqaa031)]  
 
 O’Sullivan, James. “Electronic Literature in Ireland.” *Electronic Book Review*, 2018, doi:10.7273/5mgv-mc25. [[Web](https://doi.org/10.7273/5mgv-mc25)][[CORA](https://cora.ucc.ie/handle/10468/7066)][[Zenodo](http://doi.org/10.5281/zenodo.3235661)]
 
