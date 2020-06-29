@@ -37,6 +37,8 @@ O’Sullivan, James, Christopher P. Long, and Mark Mattson. “Dissemination as 
 
 ### Selected Journal Articles
 
+O'Sullivan, James. "Who Wrote *Wuthering Heights*?" *Digital Scholarship in the Humanities*, 2020, doi: 10.1093/llc/fqaa031. [[Web](https://doi.org/10.1093/llc/fqaa031)]  
+
 O’Sullivan, James. “Electronic Literature in Ireland.” *Electronic Book Review*, 2018, doi:10.7273/5mgv-mc25. [[Web](https://doi.org/10.7273/5mgv-mc25)][[CORA](https://cora.ucc.ie/handle/10468/7066)][[Zenodo](http://doi.org/10.5281/zenodo.3235661)]
 
 O’Sullivan, James. “The Equivalence of Books: Monographs, Prestige, and the Rise of Edge Cases.” *Convergence: The International Journal of Research into New Media Technologies*, vol. 24, no. 5, 2018, pp. 494-503, doi:10.1177/1354856518780457. [[Web](https://doi.org/10.1177/1354856518780457)][[WorldCat](http://www.worldcat.org/oclc/7770288016)][[CORA](https://cora.ucc.ie/handle/10468/6488)]
