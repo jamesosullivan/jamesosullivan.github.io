@@ -95,6 +95,8 @@ Clarke, Chris & James O'Sullivan, curators. *Peripheries: ELO2019 Exhibition Pro
 
 ## Selected Essays, Features & Reviews
 
+McCarthy, Rachel, and James O'Sullivan. "Who Wrote Wuthering Heights?" *The Irish Times*, July 2020. [[Web](https://www.irishtimes.com/culture/books/who-wrote-wuthering-heights-1.4305162)]  
+
 O'Sullivan, James. "We are failing young people if we can’t teach them common decency." *The Irish Times*, June 2020. [[Web](www.irishtimes.com/1.4271670)]
 
 O'Sullivan, James. "Being Faithless." *HeadStuff*, January 2020. [[Web](https://www.headstuff.org/topical/opinion/2020being-faithless-catholic/)]
