@@ -149,6 +149,7 @@ O’Sullivan, James. *Kneeling on the Redwood Floor*. Lapwing Publications, 2011
 
 ### Selected Poetry
 
+"Corpse Paths", *The Stinging Fly*, Issue 41, vol. 2, summer 2020.
 “Smoke”, *Smithereens Literary Magazine*, Issue 2, 2018.  
 “Vienna”, *Southword*, Issue 35, 2018.  
 “The State Theatre”, *Banshee*, Issue 6, spring/summer 2018.  
