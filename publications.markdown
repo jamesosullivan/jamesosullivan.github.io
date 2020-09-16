@@ -13,6 +13,8 @@ order: 2
 [Humanities Commons](https://hcommons.org/members/jamesosullivan/deposits/)  
 [ORCID](http://orcid.org/0000-0002-4214-9933)
 
+[create an anchor](###edited-books)
+
 ## Scholarly Publications
 
 ### Books
@@ -89,7 +91,7 @@ Clarke, Chris & James O'Sullivan, curators. *Peripheries: ELO2019 Exhibition Pro
 
 ## Digital Projects
 
-[New Binary Press](http://newbinarypress.com)  
+[The Archive of the Cork Film Festival](https://corkfilmfest.ucc.ie/)  
 [The Joyce Word Dictionary](https://joycewords.com/)  
 [The Works of Mary Devenport O'Neill](http://marydevenportoneill.org/)
 

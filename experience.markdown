@@ -31,19 +31,25 @@ Creative Media & Digital Culture, Washington State University, Vancouver
 
 #### Current
 
-Director, DHSI Atlantic (2019-)
+COVID-19 Lead Worker Representative, Department of Digital Humanities, University College Cork (Sept 2020-present)
 
-Acting Head, Department of Digital Humanities, January - July 2020
+Library Representative, Department of Digital Humanities, University College Cork (2020-present)
 
-Member of the Research and Innovation Committee for the College of Arts, Celtic Studies & Social Sciences, University College Cork (2018-)
+Member of the Research and Innovation Committee for the College of Arts, Celtic Studies & Social Sciences, University College Cork (2018-present)
+
+Second-year Coordinator, BA in Digital Humanities & Information Technology, University College Cork (2017-present)
 
 #### Previous
 
-Member of the *Digital Humanities* Program Committee (2020)
+Acting Head, Department of Digital Humanities (Jan-July 2020)
+
+Member of the *Digital Humanities* Program Committee, University of Ottawa & Carleton University (2019-2020)
+
+Chair of the Organising Committee, Electronic Literature Organization Conference & Media Arts Festival (July 2019)
 
 Coordinator of the Digital Arts & Humanities Research Colloquium, University College Cork (2017-2020)
 
-Chair, Electronic Literature Organization Conference & Media Arts Festival, July 2019
+Workplace Coordinator, Department of Digital Humanities, University College Cork (2017-2019)
 
 Associate Director of the Digital Humanities Summer Institute, University of Victoria, British Columbia (2013-2018)
 
