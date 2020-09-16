@@ -11,7 +11,7 @@ order: 2
 
 ### Jump to:
 
-[Books](#books) / [Edited Books](#edited-books) / [Book Chapters](#book-chapters) / [Journal Articles](#selected-journal-articles) / [Reports](#reports) / [Special Issues](#special-issues) / [Miscellaneous](#other) / [Digital Projects](#digital-projects) / [Essays, Features & Reviews](#selected-essays-features-reviews) / [Creative Publications](#creative-publications)
+[Books](#books) / [Edited Books](#edited-books) / [Book Chapters](#book-chapters) / [Journal Articles](#selected-journal-articles) / [Reports](#reports) / [Special Issues](#special-issues) / [Miscellaneous](#other) / [Digital Projects](#digital-projects) / [Essays, Features & Reviews](#selected-essays-features-&-reviews) / [Creative Publications](#creative-publications)
 
 ## Scholarly Publications
 
