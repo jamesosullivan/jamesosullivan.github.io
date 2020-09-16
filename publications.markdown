@@ -5,7 +5,7 @@ permalink: /publications/
 order: 2
 ---
 
-## External Resources
+### External Resources
 
 [Google Scholar](https://scholar.google.com/citations?user=evynjzEAAAAJ&hl=en)  
 [Cork Open Research Archive (CORA)](https://cora.ucc.ie/browse?value=O%27Sullivan%2C+James&type=author)  
@@ -13,7 +13,9 @@ order: 2
 [Humanities Commons](https://hcommons.org/members/jamesosullivan/deposits/)  
 [ORCID](http://orcid.org/0000-0002-4214-9933)
 
-[create an anchor](###edited-books)
+### Jump to:
+
+[create an anchor](#edited-books)
 
 ## Scholarly Publications
 
