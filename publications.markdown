@@ -7,11 +7,11 @@ order: 2
 
 ### External resources:
 
-[Google Scholar](https://scholar.google.com/citations?user=evynjzEAAAAJ&hl=en) \| [Cork Open Research Archive (CORA)](https://cora.ucc.ie/browse?value=O%27Sullivan%2C+James&type=author) / [Zotero](https://www.zotero.org/josullivan) / [Humanities Commons](https://hcommons.org/members/jamesosullivan/deposits/) / [ORCID](http://orcid.org/0000-0002-4214-9933)
+[Google Scholar](https://scholar.google.com/citations?user=evynjzEAAAAJ&hl=en) \| [Cork Open Research Archive (CORA)](https://cora.ucc.ie/browse?value=O%27Sullivan%2C+James&type=author) \| [Zotero](https://www.zotero.org/josullivan) \| [Humanities Commons](https://hcommons.org/members/jamesosullivan/deposits/) \| [ORCID](http://orcid.org/0000-0002-4214-9933)
 
 ### Jump to:
 
-[Books](#books) / [Edited Books](#edited-books) / [Book Chapters](#book-chapters) / [Journal Articles](#selected-journal-articles) / [Reports](#reports) / [Special Issues](#special-issues) / [Miscellaneous](#other) / [Digital Projects](#digital-projects) / [Essays, Features & Reviews](#selected-essays-features--reviews) / [Creative Publications](#creative-publications)
+[Books](#books) \| [Edited Books](#edited-books) \| [Book Chapters](#book-chapters) \| [Journal Articles](#selected-journal-articles) \| [Reports](#reports) \| [Special Issues](#special-issues) \| [Miscellaneous](#other) \| [Digital Projects](#digital-projects) \| [Essays, Features & Reviews](#selected-essays-features--reviews) \| [Creative Publications](#creative-publications)
 
 ## Scholarly Publications
 
