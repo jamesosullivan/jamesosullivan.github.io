@@ -27,7 +27,7 @@ School of Science & Informatics, Cork Institute of Technology
 Adjunct Professor (2015-2016)  
 Creative Media & Digital Culture, Washington State University, Vancouver
 
-### Current Professional Service & Administrative Responsibilities
+### Professional Service & Administrative Responsibilities
 
 #### Current
 
