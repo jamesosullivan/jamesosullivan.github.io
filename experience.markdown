@@ -27,13 +27,17 @@ School of Science & Informatics, Cork Institute of Technology
 Adjunct Professor (2015-2016)  
 Creative Media & Digital Culture, Washington State University, Vancouver
 
-### Professional Service & Administrative Responsibilities
+### Current Professional Service & Administrative Responsibilities
 
 #### Current
 
-COVID-19 Lead Worker Representative, Department of Digital Humanities, University College Cork (Sept 2020-present)
+COVID-19 Lead Worker Representative, School of English & Digital Humanities, University College Cork (Sept 2020-present)
 
 Library Representative, Department of Digital Humanities, University College Cork (2020-present)
+
+Director, DHSI Atlantic, University College Cork (2019-present)
+
+First Aid Worker, School of English & Digital Humanities, University College Cork (2019-present)
 
 Member of the Research and Innovation Committee for the College of Arts, Celtic Studies & Social Sciences, University College Cork (2018-present)
 
@@ -43,33 +47,41 @@ Second-year Coordinator, BA in Digital Humanities & Information Technology, Univ
 
 Acting Head, Department of Digital Humanities (Jan-July 2020)
 
-Member of the *Digital Humanities* Program Committee, University of Ottawa & Carleton University (2019-2020)
-
-Chair of the Organising Committee, Electronic Literature Organization Conference & Media Arts Festival (July 2019)
+Chair of the Organising Committee, Electronic Literature Organization Conference & Media Arts Festival, University College Cork (July 2019)
 
 Coordinator of the Digital Arts & Humanities Research Colloquium, University College Cork (2017-2020)
 
 Workplace Coordinator, Department of Digital Humanities, University College Cork (2017-2019)
 
-Associate Director of the Digital Humanities Summer Institute, University of Victoria, British Columbia (2013-2018)
-
-Chair of the DHSI Colloquium, Digital Humanities Summer Institute, University of Victoria, British Columbia (2013-2018)
-
-Member of the Standing Committee on Affiliates of the Association for Computers and the Humanities (2015-2017)
-
 Member of the Strategic Working Group for Advancing University Research, Pennsylvania State University (2014/15)
-
-Communications Fellow of the European Association for Digital Humanities (2014-2016)
 
 Member of the Advisory Board for Center for Humanities & Information, Pennsylvania State University (2014-2016)
 
 Member of the Advisory Committee for the Public Poetry Project, Pennsylvania Center for the Book (2015/16)
 
-Member of the Keystone Digital Humanities Conference Program Committee, University of Pennsylvania (2015)
-
 Member of Pre-doctoral Fellowship Review Committee for the Center for Humanities & Information, Pennsylvania State University (2014/15)
 
 Member of the Organising Committee for ArtWorks, University College Cork (2013-2015)
+
+### Community Service
+
+#### Current
+
+Member of the Board, Sample-Studios (2020-present)
+
+#### Previous
+
+Associate Director of the Digital Humanities Summer Institute, University of Victoria, British Columbia (2013-2018)
+
+Chair of the DHSI Colloquium, Digital Humanities Summer Institute, University of Victoria, British Columbia (2013-2018)
+
+Member of the *Digital Humanities* Program Committee, University of Ottawa & Carleton University (2019-2020)
+
+Member of the Standing Committee on Affiliates of the Association for Computers and the Humanities (2015-2017)
+
+Member of the Keystone Digital Humanities Conference Program Committee, University of Pennsylvania (2015)
+
+Communications Fellow of the European Association for Digital Humanities (2014-2016)
 
 Member of the Editorial Board for the DiRT Directory (2014-2015)
 
