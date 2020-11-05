@@ -37,6 +37,8 @@ O’Sullivan, James, Christopher P. Long, and Mark Mattson. “Dissemination as 
 
 ### Selected Journal Articles
 
+O’Sullivan, James. “The Digital Humanities in Ireland.” *Digital Studies/Le champ numérique*, vol. 10, no. 1, 2020, doi:10.16995/dscn.374. [[Web](https://doi.org/10.16995/dscn.374)]
+
 McCarthy, Rachel, and James O'Sullivan. "Who Wrote *Wuthering Heights*?" *Digital Scholarship in the Humanities*, 2020, doi: 10.1093/llc/fqaa031. [[Web](https://doi.org/10.1093/llc/fqaa031)][[CORA](https://cora.ucc.ie/handle/10468/10194)]  
 
 O’Sullivan, James. “Electronic Literature in Ireland.” *Electronic Book Review*, 2018, doi:10.7273/5mgv-mc25. [[Web](https://doi.org/10.7273/5mgv-mc25)][[CORA](https://cora.ucc.ie/handle/10468/7066)][[Zenodo](http://doi.org/10.5281/zenodo.3235661)]
