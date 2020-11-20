@@ -35,6 +35,8 @@ COVID-19 Lead Worker Representative, School of English & Digital Humanities, Uni
 
 Library Representative, Department of Digital Humanities, University College Cork (2020-present)
 
+Mentor, Sanctuary Scholarship programme, University College Cork (2019/20)
+
 Director, DHSI Atlantic, University College Cork (2019-present)
 
 First Aid Worker, School of English & Digital Humanities, University College Cork (2019-present)
