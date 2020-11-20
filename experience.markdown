@@ -35,8 +35,6 @@ COVID-19 Lead Worker Representative, School of English & Digital Humanities, Uni
 
 Library Representative, Department of Digital Humanities, University College Cork (2020-present)
 
-Mentor, Sanctuary Scholarship programme, University College Cork (2019/20)
-
 Director, DHSI Atlantic, University College Cork (2019-present)
 
 First Aid Worker, School of English & Digital Humanities, University College Cork (2019-present)
@@ -48,6 +46,8 @@ Second-year Coordinator, BA in Digital Humanities & Information Technology, Univ
 #### Previous
 
 Acting Head, Department of Digital Humanities (Jan-July 2020)
+
+Mentor, Sanctuary Scholarship programme, University College Cork (2019/20)
 
 Chair of the Organising Committee, Electronic Literature Organization Conference & Media Arts Festival, University College Cork (July 2019)
 
@@ -67,11 +67,7 @@ Member of the Organising Committee for ArtWorks, University College Cork (2013-2
 
 ### Community Service
 
-#### Current
-
-Member of the Board, Sample-Studios (2020-present)
-
-#### Previous
+Member of the Board of Directors, Sample-Studios (2020-present)
 
 Associate Director of the Digital Humanities Summer Institute, University of Victoria, British Columbia (2013-2018)
 
