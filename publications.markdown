@@ -85,7 +85,7 @@ O’Sullivan, James, Mary Galvin, and Diane Jakacki. “DHSI Colloquium 2014 Spe
 
 ### Other
 
-O'Sullivan, James. "Text Is Dead, Long Live Text!" *The Future of Text*, edited by Frode Alexander Hegland, 2020, p. 206, doi: 10.48197/fot2020a. [[Web](https://doi.org/10.48197/fot2020a)]
+O'Sullivan, James. "Text Is Dead, Long Live Text!" *The Future of Text*, edited by Frode Alexander Hegland, 2020, p. 206, doi: 10.48197/fot2020a. [[Web](https://doi.org/10.48197/fot2020a)][[CORA](http://hdl.handle.net/10468/10795)]
 
 O'Sullivan, James, chair. *Electronic Literature Organization Conference & Media Arts Festival (ELO2019): Programme & Book of Abstracts*. University College Cork, July 2019. [[CORA](https://cora.ucc.ie/handle/10468/8128)]
 
