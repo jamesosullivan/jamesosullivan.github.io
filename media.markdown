@@ -20,12 +20,12 @@ permalink: /media/
 
 [Matthew Geden’s review of *Courting Katie*, published in *Southword* 33, 2018.](http://www.munsterlit.ie/Southword/Issues/33/reviews/geden_matthew_bindweed.html)
 
-[Discussing stylometry with Seán Moncrieff, Newstalk FM, April 2017.](https://www.dropbox.com/s/9jafcfbpxa2aknr/newstalk-april-19.mp3?dl=0)
+[Discussing stylometry with Seán Moncrieff, Newstalk FM, April 2017.](https://drive.google.com/file/d/1g9co1KkZ4L3uJ8htiAA7S3ZsoWeeJu13/view?usp=sharing)
 
-[Interview in Books Ireland, January/February 2017.](https://www.dropbox.com/s/aw3az7l9ayeq65z/books-ireland.pdf?dl=0)
+[Interview in Books Ireland, January/February 2017.](https://drive.google.com/file/d/1OBdorVPy6q-0E1vvNsbupvsetTOVmVjb/view?usp=sharing)
 
-[Interview in *The Edgar Allan Poe Review* 17.1, Spring 2016.](http://www.jstor.org/stable/10.5325/edgallpoerev.17.1.0084)
+[Interview in *The Edgar Allan Poe Review* 17.1, Spring 2016.](https://drive.google.com/file/d/1cntshMYJKgYnXJ9_1ZgzMEyjxI54Dq7p/view?usp=sharing)
 
-[Interview with Fabian Sweeney on electronic literature and *Holes*.](https://soundcloud.com/fabiansweeney/lighthouse#t=19:40)
+[Interview with Fabian Sweeney on electronic literature and *Holes*.](https://drive.google.com/file/d/1RQNCF-ISoQHVucZFWnItukeKzW5_xOEJ/view?usp=sharing)
 
-[Poetry reading at Ó Bhéal, Cork city, July 2014.](http://www.obheal.ie/blog/audio/Guest%20Reading%20-%20James%20OSullivan.mp3)
+[Poetry reading at Ó Bhéal, Cork city, July 2014.](https://drive.google.com/file/d/1Nj9R87dQmKwyesPxA5bcoS6Vi7134AOE/view?usp=sharing)
