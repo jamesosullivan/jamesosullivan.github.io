@@ -76,7 +76,7 @@ O’Sullivan, James. “Time and Technology in Orlando.” *ANQ: A Quarterly Jou
 
 O’Sullivan, James. *Scholarly Equivalents of the Monograph? An Examination of Some Digital Edge Cases*. The Academic Book of the Future Project, University College London, 2017. [[CORA](https://cora.ucc.ie/handle/10468/4273)][[Zenodo](http://doi.org/10.5281/zenodo.3235562)][[Google Scholar](https://scholar.google.com/citations?user=evynjzEAAAAJ&hl=en#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DevynjzEAAAAJ%26citation_for_view%3DevynjzEAAAAJ%3A0EnyYjriUFMC%26tzom%3D0)]
 
-### Special Issues
+### Edited Special Issues
 
 Nilsson-Fernàndez, Pedro and James O’Sullivan. "ELO2019 Gathering (Cork, Ireland)." *Electronic Book Review*, 2020. [[Web](https://electronicbookreview.com/gathering/elo2019-cork-ireland/)]
 
@@ -88,13 +88,14 @@ O’Sullivan, James, Mary Galvin, and Diane Jakacki. “DHSI Colloquium 2014 Spe
 
 O'Sullivan, James. "Text Is Dead, Long Live Text!" *The Future of Text*, edited by Frode Alexander Hegland, 2020, p. 206, doi: 10.48197/fot2020a. [[Web](https://doi.org/10.48197/fot2020a)][[CORA](http://hdl.handle.net/10468/10795)][[Zenodo](https://zenodo.org/record/4302344)][[Google Scholar](https://scholar.google.com/citations?user=evynjzEAAAAJ&hl=en#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DevynjzEAAAAJ%26cstart%3D20%26pagesize%3D80%26citation_for_view%3DevynjzEAAAAJ%3AM05iB0D1s5AC%26tzom%3D0)]
 
-O'Sullivan, James, chair. *Electronic Literature Organization Conference & Media Arts Festival (ELO2019): Programme & Book of Abstracts*. University College Cork, July 2019. [[CORA](https://cora.ucc.ie/handle/10468/8128)][[Google Scholar](https://scholar.google.com/citations?user=evynjzEAAAAJ&hl=en#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DevynjzEAAAAJ%26cstart%3D20%26pagesize%3D80%26citation_for_view%3DevynjzEAAAAJ%3AYFjsv_pBGBYC%26tzom%3D0)]
+O'Sullivan, James, editor/chair. *Electronic Literature Organization Conference & Media Arts Festival (ELO2019): Programme & Book of Abstracts*. University College Cork, July 2019. [[CORA](https://cora.ucc.ie/handle/10468/8128)][[Google Scholar](https://scholar.google.com/citations?user=evynjzEAAAAJ&hl=en#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DevynjzEAAAAJ%26cstart%3D20%26pagesize%3D80%26citation_for_view%3DevynjzEAAAAJ%3AYFjsv_pBGBYC%26tzom%3D0)]
 
 Clarke, Chris & James O'Sullivan, curators. *Peripheries: ELO2019 Exhibition Programme*. University College Cork, July 2019. [[CORA](https://cora.ucc.ie/handle/10468/8138)][[Google Scholar](https://scholar.google.com/citations?user=evynjzEAAAAJ&hl=en#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DevynjzEAAAAJ%26cstart%3D20%26pagesize%3D80%26citation_for_view%3DevynjzEAAAAJ%3ANMxIlDl6LWMC%26tzom%3D0)]
 
-## Digital Projects
+## Selected Digital Projects
 
-[The Archive of the Cork Film Festival](https://corkfilmfest.ucc.ie/)  
+[The Digital Archive of the Cork International Film Festival](https://corkfilmfest.ucc.ie/)  
+[Zebrapedia.org: Distributed Scholarship and Philip K. Dick's Exegesis](zebrapedia.psu.edu)  
 [The Joyce Word Dictionary](https://joycewords.com/)  
 [The Works of Mary Devenport O'Neill](http://marydevenportoneill.org/)
 

@@ -14,7 +14,7 @@ ADHO Bursary, Digital Humanities, Lausanne, July 2014
 
 ## Selected Awards & Honours
 
-Co-author of "Who Wrote *Wuthering Heights*?", recipient of Best Publication involving an Undergraduate Author, UCC Research Awards 2020.
+Co-author of "Who Wrote *Wuthering Heights*?", recipient of Best Publication involving an Undergraduate Author, UCC Research Awards 2020
 
 Contributor to *The Bloomsbury Handbook of Electronic Literature* edited by Joseph Tabbi, recipient of the Electronic Literature Organization N. Katherine Hayles Award in 2018
 
