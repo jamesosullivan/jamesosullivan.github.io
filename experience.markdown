@@ -8,8 +8,6 @@ permalink: /experience/
 
 ### Faculty Appointments
 
-#### Full-Time
-
 Lecturer in Digital Arts & Humanities (2017-present)  
 School of English & Digital Humanities, University College Cork
 
@@ -19,7 +17,7 @@ Humanities Research Institute, University of Sheffield
 Digital Humanities Research Designer (2014-2016)  
 College of the Liberal Arts, Pennsylvania State University
 
-#### Part-Time
+#### Adjunct Positions
 
 Adjunct Lecturer (2011-2017)  
 School of Science & Informatics, Cork Institute of Technology
@@ -27,7 +25,7 @@ School of Science & Informatics, Cork Institute of Technology
 Adjunct Professor (2015-2016)  
 Creative Media & Digital Culture, Washington State University, Vancouver
 
-####  Fellowship
+####  Visiting Fellowships
 
 ADAPT Centre (April 2021)
 Trinity College Dublin
