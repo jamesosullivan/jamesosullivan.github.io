@@ -48,6 +48,8 @@ Second-year Coordinator, BA in Digital Humanities & Information Technology, Univ
 
 #### Previous
 
+Co-convener, Digital Art in Ireland Panel Discussion, a collaboration between Sample Studios and the Department of Digital Humanities, UCC (April 2021)
+
 Acting Head, Department of Digital Humanities (Jan-July 2020)
 
 Mentor, Sanctuary Scholarship programme, University College Cork (2019/20)
