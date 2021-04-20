@@ -161,6 +161,7 @@ O’Sullivan, James. *Kneeling on the Redwood Floor*. Lapwing Publications, 2011
 “Ghosts” & “Galaxies”, *Prairie Schooner*, vol. 91, no. 3, 2017.  
 “Rust” & “Abandoned Places”, *Poetry Salzburg Review*, no. 30, 2017.  
 “Different Kinds of Life”, *On the Banks: Cork City in Poems and Song*, 2016.  
+"Room Service", *Quarryman*, vol. II, 2016.  
 “Picture Box”, *Crannóg*, Issue 43, autumn 2016.  
 Extract from “Designing Waste”, *Banshee*, Issue 1, autumn 2015.  
 “Different Kinds of Life”, *Southword*, Issue 29A, April/May 2016.  
