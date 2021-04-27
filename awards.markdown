@@ -6,11 +6,11 @@ permalink: /awards/
 
 ## Selected Grants & Fellowships
 
-Association for Computers and the Humanities Incubator Grant 2015
+Cork International Film Festival Research Bursary (€8,311)  
 
-Penn State University Libraries Innovation Microgrant 2014/15
+Association for Computers and the Humanities Incubator Grant 2015 ($1000)
 
-ADHO Bursary, Digital Humanities, Lausanne, July 2014
+Penn State University Libraries Innovation Microgrant 2014/15 ($1000)
 
 ## Selected Awards & Honours
 
