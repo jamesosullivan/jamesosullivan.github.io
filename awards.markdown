@@ -6,11 +6,13 @@ permalink: /awards/
 
 ## Selected Grants & Fellowships
 
-Cork International Film Festival Research Bursary (€8,311)  
+Cork International Film Festival Research Bursary (€8,311)
 
-Association for Computers and the Humanities Incubator Grant 2015 ($1000)
+CACSSS Conference Support Fund (€2,000)  
 
-Penn State University Libraries Innovation Microgrant 2014/15 ($3000)
+Association for Computers and the Humanities Incubator Grant 2015 ($1,000)
+
+Penn State University Libraries Innovation Microgrant 2014/15 ($3,000)
 
 ## Selected Awards & Honours
 
