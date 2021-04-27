@@ -10,7 +10,7 @@ Cork International Film Festival Research Bursary (€8,311)
 
 Association for Computers and the Humanities Incubator Grant 2015 ($1000)
 
-Penn State University Libraries Innovation Microgrant 2014/15 ($1000)
+Penn State University Libraries Innovation Microgrant 2014/15 ($3000)
 
 ## Selected Awards & Honours
 
