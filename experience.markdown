@@ -27,6 +27,9 @@ Creative Media & Digital Culture, Washington State University, Vancouver
 
 #### Visiting Fellowships
 
+Institute for the Study of Literature and Tradition (Summer 2021)
+NOVA University, Lisbon  
+
 ADAPT Centre (April 2021)  
 Trinity College Dublin
 
