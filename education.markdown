@@ -4,6 +4,10 @@ title: Education
 permalink: /education/
 ---
 
+Certificate in Counselling Skills  
+Munster Technological University (2021)
+Department of Applied Social Studies
+
 Postgraduate Certificate in Teaching & Learning in Higher Education  
 University College Cork (2019)  
 Centre for the Integration of Research, Teaching and Learning
