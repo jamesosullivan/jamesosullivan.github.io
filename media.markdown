@@ -12,6 +12,8 @@ permalink: /media/
 
 ## Selected Interviews & Other Press
 
+["Navigating Digital Literacy, Literature and Humanities in Irish Society: A first Conversation with James O’Sullivan", interview in *Studi Irlandesi* 11, 2021.](https://oajournals.fupress.net/index.php/bsfm-sijis/article/view/12894/12218)  
+
 “Things Being Various”, Jessica Traynor’s review of *Courting Katie*, published in Poetry Ireland Review 126, 2018. pp. 83-86.
 
 [Blog post by J. Berenike Herrmann for the ADHO Special Interest Group in Digital Literary Stylistics (SIG-DLS) discussing research by Simon Fuller and James O'Sullivan, June 2018.](https://dls.hypotheses.org/184)
