@@ -321,7 +321,7 @@ table td {
 .footer-col-wrapper {
     /*font-size: 15px/;*/
     color: #828282;
-    width: 800px;
+    /* width: 800px; */
 
 }
 
@@ -349,7 +349,7 @@ a.site-title {
 .wrapperf {
     max-width: -webkit-calc(860px - (0px * 2));
     max-width: calc(860px - (0px * 2));
-    width: 800px;
+    width: 100%;
     margin-right: auto;
     margin-left: auto;
     padding-right: 0px;
@@ -844,10 +844,11 @@ span.u-file-icon.u-icon.u-social-custom.u-social-icon.u-icon-4>img {
       float: none; 
     }
   }
-
-  .custom-paragraph {
-    text-indent: -20px; /* Negative indent to bring the first line back to the left */
-    padding-left: 20px; /* Padding for the second line and beyond */
+  .footer-left{
+    float: left;
+  }
+  .footer-col{
+    float: left;
   }
   
   
