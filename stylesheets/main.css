@@ -838,10 +838,15 @@ span.u-file-icon.u-icon.u-social-custom.u-social-icon.u-icon-4>img {
     float: left;
   }
   @media (max-width: 768px) {
-    .left-column,
+    .left-column{
+      width: 20%; 
+      float: left; 
+    }
+  }
+  @media (max-width: 768px) {
     .right-column {
-      width: 100%; 
-      float: none; 
+      width: 80%; 
+      float: left; 
     }
   }
   .footer-left{
