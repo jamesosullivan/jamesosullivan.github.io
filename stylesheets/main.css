@@ -858,6 +858,23 @@ span.u-file-icon.u-icon.u-social-custom.u-social-icon.u-icon-4>img {
   
   h3{
     font-size: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin: 0;
+    font-weight: 400;
   }
+  .container{
+    display: flex;
+    align-items: stretch;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  P{
+    margin: 0;
+  }
+
+  
+  
+  
   
   
