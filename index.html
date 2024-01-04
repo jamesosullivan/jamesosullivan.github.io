@@ -1,156 +1,113 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!----------------------------------------------------------------------->
-
 <head>
 
-  <title>jamesosullivan.org</title>
+    <!-- Meta tags for responsive design and SEO -->
 
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<!----------------------------------------------------------------------->
+    <title>jamesosullivan.org</title>
 
-  <meta name="description" content="The personal website of Dr James O'Sullivan, Department of Digital Humanities, University College Cork">
-  <meta name="keywords" content="James O'Sullivan, Dr James O'Sullivan, University College Cork, UCC, UCCDH, Digital Humanities, DH, Cork, Cork city, Ireland, academic, scholar, writer, e-lit, electronic liteature, digital poetics, digital fiction, stylometry, cultural analytics">
-  <meta name="author" content="James O'Sullivan">
+    <meta name="description" content="The personal website of Dr James O'Sullivan, Department of Digital Humanities, University College Cork">
+    <meta name="keywords" content="James O'Sullivan, Dr James O'Sullivan, University College Cork, UCC, UCCDH, Digital Humanities, DH, Cork, Cork city, Ireland, academic, scholar, writer, e-lit, electronic literature, digital poetics, digital fiction, stylometry, cultural analytics">
+    <meta name="author" content="James O'Sullivan">
 
-  <meta property="og:title" content="The personal website of Dr James O'Sullivan, Department of Digital Humanities, University College Cork">
-  <meta property="og:type" content="website">
-  <meta property="og:url" content="https://www.jamesosullivan.org">
-  <meta property="og:description" content="The personal website of Dr James O'Sullivan, Department of Digital Humanities, University College Cork">
-  <meta property="og:image" content="images/jamesosullivan.jpg">
+    <link rel="stylesheet" href="assets/main.css">
 
-<!----------------------------------------------------------------------->
-
-  <link rel="stylesheet" href="stylesheets/main.css">
-
-  <link rel="icon" href="favicon/favicon.ico">
-  <link rel="apple-touch-icon" href="favicon/apple-touch-icon.png">
-
-  <link type="application/atom+xml" rel="alternate" href="http://jamesosullivan.org/feed.xml"title="jamesosullivan.org" />
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-<!--- Global site tag (gtag.js) - Google Analytics --->
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-XCLNB2QM94"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-XCLNB2QM94');
-</script>
+    <link rel="icon" href="assets/favicon.ico">
+    <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">  
 
 </head>
 
-<!----------------------------------------------------------------------->
-
 <body>
 
-  <header class="site-header" role="banner">
+    <div class="container">
 
-    <div class="wrapper"><a class="site-title logo" rel="author" href="index.html">jamesosullivan.org</a>
-
-      <nav class="site-nav">
-        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
-          <label for="nav-trigger">
-            <span class="menu-icon">
-              <svg viewBox="0 0 18 15" width="18px" height="15px">
-                <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z" />
-              </svg>
-            </span>
-          </label>
-
-          <div class="trigger">
-            <a class="page-link" href="research.html">Projects & Publications</a>
-            <a class="page-link" href="experience.html">Education & Experience</a>
-            <a class="page-link" href="honours.html">Grants, Awards & Honours</a>
-          </div>
-      </nav>
-    </div>
-  </header>
-
-<!----------------------------------------------------------------------->
-
-  <main class="page-content" aria-label="Content">
-
-    <div class="wrapper"></div>
-    <div class="wrapper">
-      <article class="post">
-
-        <header class="post-header">
-          <h1 class="post-title">Welcome</h1>
+        <header>
+            <div class="header-content">
+            
+                <!-- Site Title as a link to the homepage -->
+                
+                <h1><a href="index.html" class="site-title-link">jamesosullivan.org</a></h1>
+                
+                <!-- Hamburger Menu Button for Mobile View -->
+                
+                <button class="hamburger-menu">☰</button>
+            
+            </div>
+                
+                <!-- Navigation Links -->
+                
+                <nav>
+                    <a href="research.html" class="nav-link">Projects & Publications</a>
+                    <a href="experience.html" class="nav-link">Education & Experience</a>
+                    <a href="honours.html" class="nav-link">Grants, Awards & Honours</a>
+                    <a href="assets/jos_cv.pdf" target="_blank" class="nav-link">CV (.pdf)</a>
+                </nav>
         </header>
 
-        <div class="post-content">
-        <p><img style="float: left; padding-right: 20px" src="images/james-o-sullivan.jpg"/ alt="Dr James O'Sullivan, University College Cork"></p>
+    <hr>
 
-    <div class="row">
+    <!-- Flex Container for Multi-Column Layout -->
 
-      <a class="site-title" target="_blank" data-type="Custom" title="E-mail James O'Sullivan" href="mailto:james.osullivan@ucc.ie"><span class="u-file-icon u-icon u-social-custom u-social-icon u-icon-4"><img src="images/95627.png" alt=""></span></a>
+    <div class="flex-container">
 
-      <a class="site-title" target="_blank" data-type="Custom" title="James O'Sullivan's ORCID" href="https://orcid.org/0000-0002-4214-9933"><span class="u-file-icon u-icon u-social-custom u-social-icon u-icon-4"><img src="images/ORCIDiD_iconbwvector.svg" alt=""></span></a>
+        <!-- Resources Section in the Left Column -->
 
-      <a class="site-title" target="_blank" data-type="Custom" title="Follow James O'Sullivan on Google Scholar" href="https://scholar.google.com/citations?user=evynjzEAAAAJ&hl=en"><span class="u-file-icon u-icon u-social-custom u-social-icon u-icon-3"><img src="images/google-scholar.png" alt=""></span></a>
+        <div class="resources-section">
+    
+            <!-- Content of the resources section goes here -->
+            
+            <p>
+                <a href="https://orcid.org/0000-0002-4214-9933" target="_blank">ORCID</a><br>
+                <a href="https://scholar.google.com/citations?user=evynjzEAAAAJ&hl=en" target="_blank">Google Scholar</a><br>
+                <a href="https://research.ucc.ie/profiles/A014/james.osullivan@ucc.ie" target="_blank">IRIS</a><br>
+                <a href="https://www.zotero.org/josullivan" target="_blank">Zotero</a>
+            </p>
+            <p>
+                <a href="https://github.com/jamesosullivan" target="_blank">GitHub</a><br>
+                <a href="https://bsky.app/profile/jamesosullivan.bsky.social" target="_blank">Bluesky Social</a>
+            </p>
+            <p>
+                <a href="mailto:james.osullivan@ucc.ie">james.osullivan@ucc.ie</a>
+            </p>
+        </div>
+
+        <!-- Body Content in the Right Column -->
+
+        <div class="body-content">
+    
+            <p>Dr James O’Sullivan conducts empirical research on literature and culture; reads digital fiction and literary games; and explores the changing nature of culture and cultural production in the digital age. He is Senior Lecturer at the <a href="https://www.ucc.ie/en/dah/" target="_blank">Department of Digital Humanities</a>, University College Cork, where he currently serves on the Research & Innovation Committee for UCC's College of Arts, Celtic Studies & Social Sciences, and as a member of the inaugural board of the Future Humanities Institute, convening the cluster on <a href="https://www.ucc.ie/en/future-humanities/researchclusters/digital/" target="_blank">Digital Cultures, New Media, &amp; Cultural Analytics</a>.</p> 
+            
+            <p>Dr O’Sullivan is a graduate of University College Cork, University College Dublin, and Cork Institute of Technology. Prior to joining UCC, he held faculty positions at the University of Sheffield and Pennsylvania State University. He has also taught in adjunct capacities at Cork Institute of Technology and Washington State University Vancouver and has held visiting fellowships at NOVA University Lisbon and Trinity College Dublin.</p>
+            
+            <p>He is currently Lead Researcher on CASCADE, a HORIZON Marie Skłodowska-Curie Actions (MCSA) Doctoral Network, as well as Principal Investigator for <a href="https://www.ucc.ie/en/dah/projects/c21editions/" target="_blank">C21 Editions: Editing &amp; Publishing in the Digital Age</a>, jointly funded by the Irish Research Council (IRC) and the UK-based Arts & Humanities Research Council (AHRC).</p>
+            
+            <p>He is the author of <a href="https://www.palgrave.com/gp/book/9783030113094" target="_blank"><i>Towards a Digital Poetics</i></a> (Palgrave Macmillan 2019) and the editor of <a href="https://www.bloomsbury.com/uk/bloomsbury-handbook-to-the-digital-humanities-9781350232129/" target="_blank"><i>The Bloomsbury Handbook to the Digital Humanities</i></a> (Bloomsbury 2023), <a href="https://doi.org/10.1017/9781009182881" target="_blank"><i>Technology in Irish Literature & Culture</i></a> (Cambridge University Press 2023), <a href="http://www.worldcat.org/oclc/1203000835" target="_blank"><i>Digital Art in Ireland: New Media & Irish Artistic Practice</i></a> (Anthem Press 2021), <a href="http://www.worldcat.org/oclc/8902805317" target="_blank"><i>Electronic Literature as Digital Humanities: Contexts, Forms, & Practices</i></a> (Bloomsbury 2021), and <a href="http://www.worldcat.org/oclc/970815518" target="_blank"><i>Reading Modernism with Machines</i></a> (Palgrave Macmillan 2016). His research has appeared in a number of international peer-reviewed publications, including <i>Poetics</i>, <i>Digital Scholarship in the Humanities</i>, <i>Digital Humanities Quarterly</i>, the <i>International Journal of Humanities and Arts Computing</i>, and <i>Digital Studies/Le Champ Numérique</i>.</p>
+
+            <p>As a creative writer, he has been published in numerous periodicals and anthologies, including <i>The Stinging Fly</i>, <i>The SHOp</i>, <i>Cyphers</i>, and <i>Southword</i>. Dr O’Sullivan contributes regular articles and features to a variety of periodicals, and has published in <i>The Guardian</i>, <i>The Irish Times</i>, and the <i>LA Review of Books</i>. He is Chair of the board of <a href="http://sample-studios.com" target="_blank">Sample-Studios</a>, Cork's largest artist-led studio group, which provides shared, affordable facilities for arts practitioners from a variety of disciplines. He is a member of the Irish Federation of University Teachers (IFUT).</p>
+
+        </div>
+    </div>
+
+        <footer>
+            <hr>
+            <p>The personal website of Dr James O'Sullivan, scholar and writer working at University College Cork<br>
+            <a href="https://maps.app.goo.gl/1995Q5EsgKDShe7G7" target="_blank">2.22 O'Rahilly Building, University College Cork, College Road, Cork, Ireland</a></p>
+        </footer>
 
     </div>
 
-    <br><br><br>
+    <!-- JavaScript for Hamburger Menu Toggle -->
+    
+    <script>
+        document.querySelector('.hamburger-menu').addEventListener('click', function() 
+            {
+                document.querySelector('nav').classList.toggle('nav-active');
+            });
+    </script>
 
-<!----------------------------------------------------------------------->
-
-  <p>I conduct empirical research on literature and culture; read digital fiction and literary games; and explore the changing nature of culture and cultural production in the digital age. I am Senior Lecturer at the <a href="https://www.ucc.ie/en/dah/" target="_blank">Department of Digital Humanities</a>, School of English & Digital Humanities, University College Cork (UCC). I serve on the Research & Innovation Committee for UCC's College of Arts, Celtic Studies &amp; Social Sciences (CACSSS), where I am also a member of the inaugural board of the Future Humanities Institute (FHI), for which I convene the cluster on <a href="https://www.ucc.ie/en/future-humanities/researchclusters/digital/" target="_blank">Digital Cultures, New Media, &amp; Cultural Analytics</a>. I am a graduate of University College Cork, University College Dublin, and Cork Institute of Technology. Prior to joining UCC, I held faculty positions at the University of Sheffield and Pennsylvania State University. I have also taught in adjunct capacities at Cork Institute of Technology and Washington State University Vancouver, and have held visiting fellowships at NOVA University Lisbon and Trinity College Dublin.</p>
-  
-  <br/>
-
-  <p>I am currently Lead Researcher on CASCADE, a HORIZON Marie Skłodowska-Curie Actions (MCSA) Doctoral Network, as well as Principal Investigator for <a href="https://www.ucc.ie/en/dah/projects/c21editions/" target="_blank">C21 Editions: Editing & Publishing in the Digital Age</a>, jointly funded by the Irish Research Council (IRC) and the UK-based Arts & Humanities Research Council (AHRC).</p>
-
-  <br/>
-  
-  <p>I am the author of <a href="https://www.palgrave.com/gp/book/9783030113094" target="_blank"><i>Towards a Digital Poetics</i></a> (Palgrave Macmillan 2019) and the editor of <a href="https://www.bloomsbury.com/uk/bloomsbury-handbook-to-the-digital-humanities-9781350232129/" target="_blank"><i>The Bloomsbury Handbook to the Digital Humanities</i></a> (Bloomsbury 2023), <a href="https://doi.org/10.1017/9781009182881" target="_blank"><i>Technology in Irish Literature & Culture</i></a> (Cambridge University Press 2023), <a href="http://www.worldcat.org/oclc/1203000835" target="_blank"><i>Digital Art in Ireland: New Media & Irish Artistic Practice</i></a> (Anthem Press 2021), <a href="http://www.worldcat.org/oclc/8902805317" target="_blank"><i>Electronic Literature as Digital Humanities: Contexts, Forms, & Practices</i></a> (Bloomsbury 2021), and <a href="http://www.worldcat.org/oclc/970815518" target="_blank"><i>Reading Modernism with Machines</i></a> (Palgrave Macmillan 2016). My research has appeared in a number of international peer-reviewed publications, including <i>Poetics</i>, <i>Digital Scholarship in the Humanities</i>, <i>Digital Humanities Quarterly</i>, the <i>International Journal of Humanities and Arts Computing</i>, and <i>Digital Studies/Le Champ Numérique</i>.</p>
-
-  <br/>
-
-  <p>As a creative writer, I have been published in numerous periodicals and anthologies, including <i>The Stinging Fly</i>, <i>The SHOp</i>, <i>Cyphers</i>, and <i>Southword</i>. I am the author of several collections of poetry, including <a href="https://www.salmonpoetry.com/details.php?ID=447&a=312" target="_blank"><i>Courting Katie</i></a> (Salmon Poetry 2017). I contribute regular articles and features to a variety of periodicals, and have published in <em>The Guardian</em>, <em>The Irish Times</em>, and the <em>LA Review of Books</em>.</p>
-
-  <br/>
-
-  <p>I serve on the board of <a href="http://sample-studios.com" target="_blank">Sample-Studios</a>, Cork's largest artist-led studio group, which nurtures a creative environment and provides shared, affordable facilities for arts practitioners from a variety of disciplines. I am a member of the Alliance of Digital Humanities Organizations (ADHO), the Modern Language Association (MLA), and the Irish Federation of University Teachers (IFUT).</p>
-<!----------------------------------------------------------------------->
-
-</div>
-</article>
-</div>
-</main>
-
-<!----------------------------------------------------------------------->
-
-<div class="xfoot">
-  <div class="wrapperf">
-      <h2 class="footer-heading">jamesosullivan.org</h2>
-      <ul class="contact-list">
-          <li class="p-name">The personal website of Dr James O'Sullivan, scholar and writer working at University College Cork</li>
-      </ul>
-      <div class="ffoot">
-          <a class="site-title" target="_blank" data-type="Custom" title="E-mail James O'Sullivan" href="mailto:james.osullivan@ucc.ie">
-              <span class="u-file-icon u-icon u-social-custom u-social-icon u-icon-3 footer-tag-icon"><img src="images/95627.png" alt=""></span></a>
-          <a class="site-title" target="_blank" data-type="Custom" title="James O'Sullivan ORCID" href="https://orcid.org/0000-0002-4214-9933">
-              <span class="u-file-icon u-icon u-social-custom u-social-icon u-icon-3 footer-tag-icon"><img src="images/ORCIDiD_iconbwvector.svg" alt=""></span></a>
-          <a class="site-title" target="_blank" data-type="Custom" title="James O'Sullivan's Google Scholar profile" href="https://scholar.google.com/citations?user=evynjzEAAAAJ&hl=en">
-              <span class="u-file-icon u-icon u-social-custom u-social-icon u-icon-3 footer-tag-icon"><img src="images/pngegg.png" alt=""></span></a>
-      </div>
-  </div>
-</div>
-
-<!----------------------------------------------------------------------->
-
-    </div>
-    </div>
-    </div>
-
-<!------------------------------------------------------------------------>
 </body>
 </html>

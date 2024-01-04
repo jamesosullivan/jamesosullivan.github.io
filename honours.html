@@ -1,436 +1,139 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!----------------------------------------------------------------------->
-
 <head>
 
-  <title>jamesosullivan.org</title>
+    <!-- Meta tags for responsive design and SEO -->
 
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<!----------------------------------------------------------------------->
+    <title>jamesosullivan.org</title>
 
-  <meta name="description" content="The personal website of Dr James O'Sullivan, Department of Digital Humanities, University College Cork">
-  <meta name="keywords" content="James O'Sullivan, Dr James O'Sullivan, University College Cork, UCC, UCCDH, Digital Humanities, DH, Cork, Cork city, Ireland, academic, scholar, writer, e-lit, electronic liteature, digital poetics, digital fiction, stylometry, cultural analytics">
-  <meta name="author" content="James O'Sullivan">
+    <meta name="description" content="The personal website of Dr James O'Sullivan, Department of Digital Humanities, University College Cork">
+    <meta name="keywords" content="James O'Sullivan, Dr James O'Sullivan, University College Cork, UCC, UCCDH, Digital Humanities, DH, Cork, Cork city, Ireland, academic, scholar, writer, e-lit, electronic literature, digital poetics, digital fiction, stylometry, cultural analytics">
+    <meta name="author" content="James O'Sullivan">
 
-  <meta property="og:title" content="The personal website of Dr James O'Sullivan, Department of Digital Humanities, University College Cork">
-  <meta property="og:type" content="website">
-  <meta property="og:url" content="https://www.jamesosullivan.org">
-  <meta property="og:description" content="The personal website of Dr James O'Sullivan, Department of Digital Humanities, University College Cork">
-  <meta property="og:image" content="images/jamesosullivan.jpg">
+    <link rel="stylesheet" href="assets/main.css">
 
-<!----------------------------------------------------------------------->
-
-  <link rel="stylesheet" href="stylesheets/main.css">
-
-  <link rel="icon" href="favicon/favicon.ico">
-  <link rel="apple-touch-icon" href="favicon/apple-touch-icon.png">
-
-  <link type="application/atom+xml" rel="alternate" href="http://jamesosullivan.org/feed.xml"title="jamesosullivan.org" />
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="icon" href="assets/favicon.ico">
+    <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">   
 
 </head>
 
-<!----------------------------------------------------------------------->
-
 <body>
 
-  <header class="site-header" role="banner">
+    <div class="container">
 
-    <div class="wrapper"><a class="site-title logo" rel="author" href="index.html">jamesosullivan.org</a>
+        <header>
+            <div class="header-content">
+            
+                <!-- Site Title as a link to the homepage -->
+                
+                <h1><a href="index.html" class="site-title-link">jamesosullivan.org</a></h1>
+                
+                <!-- Hamburger Menu Button for Mobile View -->
+                
+                <button class="hamburger-menu">☰</button>
+            
+            </div>
+                
+                <!-- Navigation Links -->
+                
+                <nav>
+                    <a href="research.html" class="nav-link">Projects & Publications</a>
+                    <a href="experience.html" class="nav-link">Education & Experience</a>
+                    <a href="honours.html" class="nav-link">Grants, Awards & Honours</a>
+                    <a href="assets/jos_cv.pdf" target="_blank" class="nav-link">CV (.pdf)</a>
+                </nav>
+        </header>
 
-      <nav class="site-nav">
-        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
-          <label for="nav-trigger">
-            <span class="menu-icon">
-              <svg viewBox="0 0 18 15" width="18px" height="15px">
-                <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z" />
-              </svg>
-            </span>
-          </label>
+    <hr>
 
-          <div class="trigger">
-            <a class="page-link" href="research.html">Projects & Publications</a>
-            <a class="page-link" href="experience.html">Education & Experience</a>
-            <a class="page-link" href="honours.html">Grants, Awards & Honours</a>
-          </div>
-      </nav>
-    </div>
-  </header>
+    <!-- Flex Container for Multi-Column Layout -->
 
-<!----------------------------------------------------------------------->
+    <div class="flex-container">
 
-  <main class="page-content" aria-label="Content">
+        <!-- Resources Section in the Left Column -->
 
-    <div class="wrapper"></div>
-    <div class="wrapper">
-      <article class="post">
-
-        <!-- <header class="post-header">
-          <h1 class="post-title">Grants, Awards & Honours</h1>
-        </header> -->
-        <div class="container">
-          <div class="left-column">
-            <p></p>
-          </div>
-          <div class="right-column">
-            <h1 class="post-title">Grants, Awards & Honours</h1>
-          </div>
+        <div class="resources-section">
+    
+            <!-- Content of the resources section goes here -->
+            
+            <p>
+                <a href="https://orcid.org/0000-0002-4214-9933" target="_blank">ORCID</a><br>
+                <a href="https://scholar.google.com/citations?user=evynjzEAAAAJ&hl=en" target="_blank">Google Scholar</a><br>
+                <a href="https://research.ucc.ie/profiles/A014/james.osullivan@ucc.ie" target="_blank">IRIS</a><br>
+                <a href="https://www.zotero.org/josullivan" target="_blank">Zotero</a>
+            </p>
+            <p>
+                <a href="https://github.com/jamesosullivan" target="_blank">GitHub</a><br>
+                <a href="https://bsky.app/profile/jamesosullivan.bsky.social" target="_blank">Bluesky Social</a>
+            </p>
+            <p>
+                <a href="mailto:james.osullivan@ucc.ie">james.osullivan@ucc.ie</a>
+            </p>
         </div>
 
-<!----------------------------------------------------------------------->
-
-<div class="container">
-  <div class="left-column">
-    <p></p>
-  </div>
-  <div class="right-column">
-    <h3>Grants</h3>
-  </div>
-</div>
-
-<div class="container">
-  <div class="left-column">
-    <p>2023</p>
-  </div>
-  <div class="right-column">
-    <p class="custom-paragraph">CASCADE, HORIZON Marie Skłodowska-Curie Actions (MSCA) Doctoral Networks Scheme (€2,192,270.40 EU contribution; £615,451 UKRI contribution)
-    </p>
-  </div>
-</div>
-
-<div class="container">
-  <div class="left-column">
-    <p>2022</p>
-  </div>
-  <div class="right-column">
-    <p class="custom-paragraph">Sample-Studios series of events on 'Digital Art in Ireland', Arts Council of Ireland (€30,000)
-    </p>
-  </div>
-</div>
-
-<div class="container">
-  <div class="left-column">
-    <p>2021</p>
-  </div>
-  <div class="right-column">
-    <p class="custom-paragraph">C21 Editions, IRC-AHRC UK-Ireland Collaboration in the Digital Humanities (€269,873, IRC/W001489/1; £376,201, AH/W001489/1)
-    </p>
-  </div>
-</div>
-
-<div class="container">
-  <div class="left-column">
-    <p>2021</p>
-  </div>
-  <div class="right-column">
-    <p class="custom-paragraph">	Project funding, Cork International Film Festival (€8,311)
-    </p>
-  </div>
-</div>
-
-<div class="container">
-  <div class="left-column">
-    <p></p>
-  </div>
-  <div class="right-column">
-    <h3>Awards</h3>
-  </div>
-</div>
-
-<div class="container">
-  <div class="left-column">
-    <p>2023</p>
-  </div>
-  <div class="right-column">
-    <p class="custom-paragraph">Vice-President for Research & Innovation Award for Interdisciplinary Research, 
-			University College Cork
-    </p>
-  </div>
-</div>
-
-<div class="container">
-  <div class="left-column">
-    <p>2016</p>
-  </div>
-  <div class="right-column">
-    <p class="custom-paragraph">Third-place, Gregory O’Donoghue International Poetry Prize
-    </p>
-  </div>
-</div>
-
-<div class="container">
-  <div class="left-column">
-    <p>2014</p>
-  </div>
-  <div class="right-column">
-    <p class="custom-paragraph">Shortlisted for the Paul Fortier Prize, Digital Humanities, Lausanne
-    </p>
-  </div>
-</div>
-
-<div class="container">
-  <div class="left-column">
-    <p>2014</p>
-  </div>
-  <div class="right-column">
-    <p class="custom-paragraph">Honorable Mention, CSDH/SCHN Ian Lancashire Award
-    </p>
-  </div>
-</div>
-
-<div class="container">
-  <div class="left-column">
-    <p></p>
-  </div>
-  <div class="right-column">
-    <h3>Plenaries & Guest Lectures</h3>
-  </div>
-</div>
+        <!-- Body Content in the Right Column -->
 
+        <div class="body-content">
+    
+            <h2 class="top-header">Grants</h2>
 
-<div class="container">
-  <div class="left-column">
-    <p>2021</p>
-  </div>
-  <div class="right-column">
-    <p class="custom-paragraph">‘Digital Humanities for Literary Studies & Practice’, Insight Cultural Analytics Initiative, 
-      University College Dublin
-    </p>
-  </div>
-</div>
+            <p>CASCADE, HORIZON Marie Skłodowska-Curie Actions (MSCA) Doctoral Networks Scheme (€2,192,270.40 EU contribution; £615,451 UKRI contribution), 2023</p>
 
+            <p>Sample-Studios series of events on 'Digital Art in Ireland', Arts Council of Ireland (€30,000), 2022</p>
 
-<div class="container">
-  <div class="left-column">
-    <p>2017</p>
-  </div>
-  <div class="right-column">
-    <p class="custom-paragraph">‘The Challenges of the Digital Humanities’, Open in Practice: Inspirations, Strategies and Methods
-			for Open Research, University of Reading
-    </p>
-  </div>
-</div>
+            <p>C21 Editions, IRC-AHRC UK-Ireland Collaboration in the Digital Humanities (€269,873, IRC/W001489/1; £376,201, AH/W001489/1), 2021</p>
 
+            <p>Project funding, Cork International Film Festival (€8,311), 2021</p>
 
-<div class="container">
-  <div class="left-column">
-    <p>2016</p>
-  </div>
-  <div class="right-column">
-    <p class="custom-paragraph">‘Quantitative Approaches to E-Lit Criticism’, Institute of the Polish Language at the Polish Academy
-			of Sciences, Kraków
-    </p>
-  </div>
-</div>
+            <h2>Awards</h2>
 
+            <p>Vice-President for Research & Innovation Award for Interdisciplinary Research, University College Cork, 2023</p>
 
-<div class="container">
-  <div class="left-column">
-    <p>2016</p>
-  </div>
-  <div class="right-column">
-    <p class="custom-paragraph">‘Algorithmic Criticism as an approach to Electronic Literature’, Electronic Literature Lab, 
-			Washington State University Vancouver
-    </p>
-  </div>
-</div>
+            <p>Third-place, Gregory O’Donoghue International Poetry Prize, 2016</p>
 
+            <p>Shortlisted for the Paul Fortier Prize, Digital Humanities, Lausanne, 2014</p>
 
-<div class="container">
-  <div class="left-column">
-    <p>2014</p>
-  </div>
-  <div class="right-column">
-    <p class="custom-paragraph">‘Exploring Ireland’s Literary Communities’, Comparative Literature Lecture Series, 
-			Pennsylvania State University
-    </p>
-  </div>
-</div>
+            <p>Honorable Mention, CSDH/SCHN Ian Lancashire Award, 2014</p>
 
-<div class="container">
-  <div class="left-column">
-    <p>2014</p>
-  </div>
-  <div class="right-column">
-    <p class="custom-paragraph">‘Technology for the Humanities’, Liberal Arts Scholarship and Technology Summit, 
-			Pennsylvania State University
-    </p>
-  </div>
-</div>
+            <h2>Plenaries & Guest Lectures</h2>
 
-<div class="container">
-  <div class="left-column">
-    <p>2014</p>
-  </div>
-  <div class="right-column">
-    <p class="custom-paragraph">‘The Significance of Boring Words’, Queen’s University Belfast
-    </p>
-  </div>
-</div>
+            <p>‘Digital Humanities for Literary Studies & Practice’, Insight Cultural Analytics Initiative, University College Dublin, 2021</p>
 
+            <p>‘The Challenges of the Digital Humanities’, Open in Practice: Inspirations, Strategies and Methods for Open Research, University of Reading, 2017</p>
 
+            <p>‘Quantitative Approaches to E-Lit Criticism’, Institute of the Polish Language at the Polish Academy of Sciences, Kraków, 2016</p>
 
+            <p>‘Algorithmic Criticism as an approach to Electronic Literature’, Electronic Literature Lab,	Washington State University Vancouver, 2016</p>
 
+            <p>‘Exploring Ireland’s Literary Communities’, Comparative Literature Lecture Series, Pennsylvania State University, 2014</p>
 
+            <p>‘Technology for the Humanities’, Liberal Arts Scholarship and Technology Summit, Pennsylvania State University, 2014</p>
 
+            <p>‘The Significance of Boring Words’, Queen’s University Belfast, 2014</p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- <p>Principal Investigator, <a href="https://www.ucc.ie/en/dah/projects/c21editions/" target="_blank">C21 Editions: Editing and Publishing in the Digital Age</a>, Irish Researcil Council & Arts & Humanities Research Council UK-Ireland Collaboration in the Digital Humanities, 2021-2024 (€269,873, IRC/W001489/1)</p>
-
-<p>1st Symposium on Digital Art in Ireland, Arts Council of Ireland, 2022 (€6,115)</p>
-
-<p>Project funding, Cork International Film Festival, 2021 (€8,311)</p>
-  
-<p>Electronic Literature Organization Conference & Media Arts Festival, CACSSS Conference Support Fund, University College Cork, 2019 (€2,000)</p>
-
-<p>Incubator Grant, Association for Computers and the Humanities, 2015 ($1,000)</p>
-
-<p>Penn State University Libraries Innovation Microgrant, 2014-2015 ($3,000)</p>
-
-<h2>Selected Awards & Honours</h2>
-
-<p>Co-author of Who Wrote Wuthering Heights?, in <i>Digital Scholarship in the Humanities</i>, recipient of Best Publication involving an Undergraduate Author, UCC Research Awards 2020.</p>
-
-<p>Contributor to <i>The Bloomsbury Handbook of Electronic Literature</i>, edited by Joseph Tabbi, recipient of the Electronic Literature Organization N. Katherine Hayles Award for Criticism, 2018.</p>
-
-<p>Different Kinds of Life, third-place in the Gregory O’Donoghue International Poetry Prize 2016.</p>
-
-<p>Rust, shortlisted for the Fish Poetry Prize 2016.</p>
-
-<p>Digital Story Cubes, Europeana Design Challenge finalist, 2015.</p>
-
-<p>The Holy Ground, shortlisted for the Fish Poetry Prize 2015.</p>
-
-<p>Dust & Bones, shortlisted for the Fish Short Story Prize 2014/15.</p>
-
-<p>Shortlisted for the Paul Fortier Prize, <i>Digital Humanities</i>, Lausanne, July 2014</p>
-
-<p>Recipient of an Honorable Mention in the CSDH/SCHN Ian Lancashire Award 2014</p>
-
-<p>Recipient of a High Commendation in the The Charles Macklin Poetry Prize 2013</p>
-
-<p>Recipient of an Honorable Mention in the Global Outlook::Digital Humanities Essay Prize 2013</p>
-
-<p>Recipient of “Best Innovation in an Emerging Space”, Cork County and City Enterprise Boards CIT Prize for Innovation 2010</p>
-
-<h2>Plenaries & Guest lectures</h2>
-
-<p>Digital Humanities for Literary Studies & Practice 
-Insight Cultural Analytics Initiative, University College Dublin, December 2021</p>
-
-<p>The Challenges of Digital Humanities 
-Open in Practice: Inspirations, Strategies and Methods for Open Research, University of Reading, March 2017</p>
-
-<p>The Evolution of E-Lit: Quantitative Approaches 
-Institute of the Polish Language at the Polish Academy of Sciences, Kraków, December 2016</p>
-
-<p>Algorithmic Criticism as an approach to Electronic Literature 
-Electronic Literature Lab, Washington State University, Vancouver, January 2016</p>
-
-<p>Exploring Ireland’s Literary Communities 
-Comparative Literature Luncheon Lecture Series, Pennsylvania State University, November 2014</p>
-
-<p>Making Technology Work for the Humanities: Why, How, and What 
-Liberal Arts Scholarship and Technology Summit, Pennsylvania State University, September 2014</p>
-
-<p>The Significance of Boring Words: Stylometric Analyses of James Joyce 
-Queens University Belfast, May 2014</p>
-
-<h2>Interviews & Press Coverage</h2>
-
-<p>Presley, Nicola, review of <a href="https://doi.org/10.16995/c21.3376" target="_blank"><i>Toward a Digital Poetics: Electronic Literature & Literary Games</i></a>, in <i>C21 Literature: Journal of 21st-Century Writings</i> 9(1).</p>
-
-<p>Antonielli, Arianna, <a href="https://doi.org/10.13128/SIJIS-2239-3978-12894" target="_blank">Navigating Digital Literacy, Literature and Humanities in Irish Society: A first Conversation with James O’Sullivan</a>, in <i>Studi Irlandesi</i> 11, 2021.</p>
-
-<p>Traynor, Jessica, Things Being Various, a review of <i>Courting Katie</i>, in <i>Poetry Ireland Review</i> 126, 2018: 83-86.</p>
-
-<p>Herrmann, J. Berenike, <a href="https://dls.hypotheses.org/184" target="_blank">A missing president?</a>, for the ADHO Special Interest Group in Digital Literary Stylistics (SIG-DLS), June 2018.</p>
-
-<p>Lane, Anthony, <a href="https://www.newyorker.com/magazine/2018/06/18/bill-clinton-and-james-pattersons-concussive-collaboration" target="_blank">Bill Clinton and James Patterson’s Concussive Collaboration</a>, in <i>The New Yorker</i>, June 2018.</p>
-
-<p>Geden, Matthew, review of <i>Courting Katie</i>, in <i>Southword</i> 33, 2018.</p>
-
-<p><a href="https://drive.google.com/file/d/1g9co1KkZ4L3uJ8htiAA7S3ZsoWeeJu13/view?usp=sharing" target="_blank">Discussing stylometry with Seán Moncrieff, Newstalk FM, April 2017.</a></p>
-
-<p>Horgan, Joseph, <a href="https://drive.google.com/file/d/1OBdorVPy6q-0E1vvNsbupvsetTOVmVjb/view?usp=sharing" target="_blank">Keep going despite the prophets of doom</a>, in <i>Books Ireland</i>, January/February 2017.</p>
-
-<p>Ehrlich, Heyward, <a href="https://drive.google.com/file/d/1cntshMYJKgYnXJ9_1ZgzMEyjxI54Dq7p/view?usp=sharing" target="_blank">Poe in Cyberspace: Have Poe Websites Become an Endangered Species?</a>, in <i>The Edgar Allan Poe Review</i> 17.1, Spring 2016.</p>
-
-<p><a href="https://drive.google.com/file/d/1RQNCF-ISoQHVucZFWnItukeKzW5_xOEJ/view?usp=sharing" target="_blank">Interview with Fabian Sweeney on electronic literature and <i>Holes</i>.</a></p> -->
-
-<!----------------------------------------------------------------------->
-
-</div>
-</article>
-</div>
-</main>
-
-<!----------------------------------------------------------------------->
-
-<div class="xfoot">
-<div class="wrapperf">
-
-  <h2 class="footer-heading">jamesosullivan.org</h2>
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-
-          <li class="p-name">The personal website of Dr James O'Sullivan, scholar and writer working at University College Cork.</li>
-
-        </ul>
-      </div>
-
-<!----------------------------------------------------------------------->
-
-      <div class="footer-col footer-col-3">
-      <div class="ffoot">
-
-        <a class="site-title" target="_blank" data-type="Custom" title="E-mail James O'Sullivan" href="mailto:james.osullivan@ucc.ie">
-        <span class="u-file-icon u-icon u-social-custom u-social-icon u-icon-3 footer-tag-icon"><img src="images/95627.png" alt=""></span></a>
-
-        <a class="site-title" target="_blank" data-type="Custom" title="James O'Sullivan ORCID" href="https://orcid.org/0000-0002-4214-9933">
-        <span class="u-file-icon u-icon u-social-custom u-social-icon u-icon-3 footer-tag-icon"><img src="images/ORCIDiD_iconbwvector.svg" alt=""></span></a>
-
-        <a class="site-title" target="_blank" data-type="Custom" title="James O'Sullivan's Google Scholar profile"href="https://scholar.google.com/citations?user=evynjzEAAAAJ&hl=en">
-        <span class="u-file-icon u-icon u-social-custom u-social-icon u-icon-3 footer-tag-icon"><img src="images/pngegg.png" alt=""></span></a>
-
-      </div>
-      </div>
-
-<!----------------------------------------------------------------------->
-
-    </div>
-    </div>
+        </div>
     </div>
 
-<!------------------------------------------------------------------------>
+        <footer>
+            <hr>
+            <p>The personal website of Dr James O'Sullivan, scholar and writer working at University College Cork<br>
+            <a href="https://maps.app.goo.gl/1995Q5EsgKDShe7G7" target="_blank">2.22 O'Rahilly Building, University College Cork, College Road, Cork, Ireland</a></p>
+        </footer>
+
+    </div>
+
+    <!-- JavaScript for Hamburger Menu Toggle -->
+    
+    <script>
+        document.querySelector('.hamburger-menu').addEventListener('click', function() 
+            {
+                document.querySelector('nav').classList.toggle('nav-active');
+            });
+    </script>
 
 </body>
 </html>
