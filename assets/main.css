@@ -157,6 +157,21 @@ nav {
   }
 }
 
+/* Media Query for Mobile Devices */
+@media (max-width: 600px) { /* Adjust the breakpoint as needed */
+  .flex-container {
+      flex-direction: column; /* Stack the columns vertically */
+  }
+
+  .resources-section,
+  .body-content {
+      flex: none; /* Reset flex settings for mobile */
+      width: 100%; /* Each section takes full width */
+      margin: 0; /* Adjust margins as needed */
+      padding: 0; /* Adjust padding as needed */
+  }
+}
+
 /* Footer Styling */
 
 footer {
