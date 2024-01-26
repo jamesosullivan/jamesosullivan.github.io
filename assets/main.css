@@ -131,10 +131,6 @@ nav {
   text-decoration: underline; /* No underline on hover */
 }
 
-.body-content a:visited {
-  color: red; /* Keeps the link red even after being clicked */
-}
-
 /* Hamburger Menu Button - hidden by default, shown in mobile view */
 .hamburger-menu {
   display: none;
