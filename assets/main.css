@@ -108,6 +108,7 @@ nav {
   font-weight: normal; /* Makes the text not bold */
   margin-top: 40px; /* Adds more space above the H2 */
   margin-bottom: 20px; /* Adds more space below the H2 */
+  text-decoration: underline;
 }
 
 .body-content .top-header { /* Increased specificity */
