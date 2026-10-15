@@ -99,23 +99,27 @@ nav {
   line-height: 1.3; /* Line spacing */
 }
 
+.appointment {
+  margin: 0 0 10px 0;
+  line-height: 1.2;
+}
+
 /* Styling for H2 elements */
 
 .body-content h2 {
   font-family: inherit; /* Inherits the font family from the body */
-  color: red; /* Sets the color to red */
+  color: black; /* Sets the color to black */
   font-size: 1em; /* Same size as the main body text */
-  font-weight: normal; /* Makes the text not bold */
+  font-weight: bold; /* Makes the text bold */
   margin-top: 40px; /* Adds more space above the H2 */
   margin-bottom: 20px; /* Adds more space below the H2 */
-  text-decoration: underline;
 }
 
 .body-content .top-header { /* Increased specificity */
   font-family: inherit; /* Inherits the font family from the body */
-  color: red; /* Sets the color to red */
+  color: black; /* Sets the color to black */
   font-size: 1em; /* Same size as the main body text */
-  font-weight: normal; /* Makes the text not bold */
+  font-weight: bold; /* Makes the text bold */
   margin-top: 15px; /* No space on top */
   margin-bottom: 20px; /* Adds more space below the H2 */
 }
